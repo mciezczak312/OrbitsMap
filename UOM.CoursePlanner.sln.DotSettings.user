@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0464b112_002Df7c0_002D4702_002D84ab_002D7029b6598bcf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_CorrectlyParseOrbitsMap" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9E0B12CF-E54D-4749-BD90-44D6FBFAA16F::net6.0::UOM.CoursePlanner.Validator.Tests.MapParserTests.Should_CorrectlyParseOrbitsMap&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::9E0B12CF-E54D-4749-BD90-44D6FBFAA16F::net6.0::UOM.CoursePlanner.Validator.Tests.MapParserTests.Should_CorrectlyCalculateChecksum&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
